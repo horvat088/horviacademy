@@ -1,0 +1,18 @@
+[
+  {
+    "wasm": {
+      "execute": {
+        "contract_addr": "juno1lyhldc8spuea6df39nhdecl7he9jq90u7ddn27u8murqvsasmjuq02nm2q1",
+        "msg": {
+          "update_config": {
+            "admin": "juno166nqpdute25frcw5xsg6ax8gj84jcdmsk5grrdecz673pxcjyzlqgnjc0f2",
+            "duration": {
+              "time": 604800
+            }
+          }
+        },
+        "funds": []
+      }
+    }
+  }
+]
